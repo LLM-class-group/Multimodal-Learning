@@ -1,0 +1,18 @@
+# ./clean.sh
+
+python reformat.py --input_data_path test.json --output_directory "reformat_results" --tokenizer_path "Qwen/Qwen2-7B-Instruct" --dataset_batch_id 0 --dataset_batch_num 10 --openai_key "sk-8jzeOA7zyec7RpEC1bEeAd8b01F444988f0c262f9c193d50" --top_k 2 --model gpt-4o-2024-05-13 --temperature 0.3 --top_p 1 --target_length 4096 &
+python reformat.py --input_data_path test.json --output_directory "reformat_results" --tokenizer_path "Qwen/Qwen2-7B-Instruct" --dataset_batch_id 1 --dataset_batch_num 10 --openai_key "sk-8jzeOA7zyec7RpEC1bEeAd8b01F444988f0c262f9c193d50" --top_k 2 --model gpt-4o-2024-05-13 --temperature 0.3 --top_p 1 --target_length 4096 &
+python reformat.py --input_data_path test.json --output_directory "reformat_results" --tokenizer_path "Qwen/Qwen2-7B-Instruct" --dataset_batch_id 2 --dataset_batch_num 10 --openai_key "sk-8jzeOA7zyec7RpEC1bEeAd8b01F444988f0c262f9c193d50" --top_k 2 --model gpt-4o-2024-05-13 --temperature 0.3 --top_p 1 --target_length 4096 &
+python reformat.py --input_data_path test.json --output_directory "reformat_results" --tokenizer_path "Qwen/Qwen2-7B-Instruct" --dataset_batch_id 3 --dataset_batch_num 10 --openai_key "sk-8jzeOA7zyec7RpEC1bEeAd8b01F444988f0c262f9c193d50" --top_k 2 --model gpt-4o-2024-05-13 --temperature 0.3 --top_p 1 --target_length 4096 &
+python reformat.py --input_data_path test.json --output_directory "reformat_results" --tokenizer_path "Qwen/Qwen2-7B-Instruct" --dataset_batch_id 4 --dataset_batch_num 10 --openai_key "sk-8jzeOA7zyec7RpEC1bEeAd8b01F444988f0c262f9c193d50" --top_k 2 --model gpt-4o-2024-05-13 --temperature 0.3 --top_p 1 --target_length 4096 &
+python reformat.py --input_data_path test.json --output_directory "reformat_results" --tokenizer_path "Qwen/Qwen2-7B-Instruct" --dataset_batch_id 5 --dataset_batch_num 10 --openai_key "sk-8jzeOA7zyec7RpEC1bEeAd8b01F444988f0c262f9c193d50" --top_k 2 --model gpt-4o-2024-05-13 --temperature 0.3 --top_p 1 --target_length 4096 &
+python reformat.py --input_data_path test.json --output_directory "reformat_results" --tokenizer_path "Qwen/Qwen2-7B-Instruct" --dataset_batch_id 6 --dataset_batch_num 10 --openai_key "sk-8jzeOA7zyec7RpEC1bEeAd8b01F444988f0c262f9c193d50" --top_k 2 --model gpt-4o-2024-05-13 --temperature 0.3 --top_p 1 --target_length 4096 &
+python reformat.py --input_data_path test.json --output_directory "reformat_results" --tokenizer_path "Qwen/Qwen2-7B-Instruct" --dataset_batch_id 7 --dataset_batch_num 10 --openai_key "sk-8jzeOA7zyec7RpEC1bEeAd8b01F444988f0c262f9c193d50" --top_k 2 --model gpt-4o-2024-05-13 --temperature 0.3 --top_p 1 --target_length 4096 &
+python reformat.py --input_data_path test.json --output_directory "reformat_results" --tokenizer_path "Qwen/Qwen2-7B-Instruct" --dataset_batch_id 8 --dataset_batch_num 10 --openai_key "sk-8jzeOA7zyec7RpEC1bEeAd8b01F444988f0c262f9c193d50" --top_k 2 --model gpt-4o-2024-05-13 --temperature 0.3 --top_p 1 --target_length 4096 &
+python reformat.py --input_data_path test.json --output_directory "reformat_results" --tokenizer_path "Qwen/Qwen2-7B-Instruct" --dataset_batch_id 9 --dataset_batch_num 10 --openai_key "sk-8jzeOA7zyec7RpEC1bEeAd8b01F444988f0c262f9c193d50" --top_k 2 --model gpt-4o-2024-05-13 --temperature 0.3 --top_p 1 --target_length 4096 &
+
+wait
+echo "All processes completed."
+
+python parallel_data_merge.py --input_data_path test.json --output_directory reformat_results --final_output_path dataset_reformat.json
+python rewrite_data_selection.py --input_original_data_path test.json --input_rewrite_data_path dataset_reformat.json --output_path realign_dataset.json --tokenizer_path "Qwen/Qwen2-7B-Instruct"

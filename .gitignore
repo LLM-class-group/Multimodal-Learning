@@ -1,0 +1,8 @@
+# .gitignore
+.DS_Store
+.idea/
+**/.DS_Store
+**/.idea/
+__pycache__
+.git_bak/
+backup/
