@@ -89,6 +89,43 @@ def reformat_json(data, problems):
     return new_data
 
 
+def reformat_json_2(data, problems):
+    # 初始化一个新的列表来存储重整后的数据
+    new_data = []
+
+    for entry in data:
+        # 提取需要的字段
+        new_entry = {
+            "id": entry["id"],
+            "image": entry["image"],
+            "conversations": []
+        } if "image" in entry else {
+            "id": entry["id"],
+            "conversations": []
+        }
+
+        answer = chr(int(problems[entry["id"]]["answer"]) + 65)  # 'A' = 65
+
+        # 遍历 items 并只保留需要的信息
+        for item in entry["items"]:
+            from_ = item["from"]
+            value_ = item["value"]
+
+            if str(from_) == "gpt":
+                value_ = answer + "."
+
+            conversation = {
+                "from": from_,
+                "value": value_
+            }
+            new_entry["conversations"].append(conversation)
+
+        # 添加重整后的条目到新列表
+        new_data.append(new_entry)
+
+    return new_data
+
+
 def main():
     # 读取原始JSON文件
     with open("/data2/yhhe/code/ReAlign/code/realign_dataset.json", 'r', encoding='utf-8') as f:
@@ -98,10 +135,10 @@ def main():
         problems = json.load(f2)
 
     # 转换JSON格式
-    output_data = reformat_json(input_data, problems)
+    output_data = reformat_json_2(input_data, problems)
 
     # 保存转换后的结果到新的JSON文件
-    with open('/data2/yhhe/code/ScienceQA/data/scienceqa/llava_train_realigned_v4.json', 'w', encoding='utf-8') as f:
+    with open('/data2/yhhe/code/ScienceQA/data/scienceqa/llava_train_short_v2.json', 'w', encoding='utf-8') as f:
         json.dump(output_data, f, indent=4, ensure_ascii=False)
 
 

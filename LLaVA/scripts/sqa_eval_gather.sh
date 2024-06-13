@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CHUNKS=8
+CHUNKS=6
 output_file="test_llava-13b.jsonl"
 
 # Clear out the output file if it exists.

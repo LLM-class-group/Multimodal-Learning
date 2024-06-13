@@ -8,11 +8,11 @@
 # --lora_enable True --lora_r 128 --lora_alpha 256 --mm_projector_lr 2e-5 \
 
 
-DS_SKIP_CUDA_CHECK=1 deepspeed --include=localhost:0,1,2,3,4,5,6,7 /data2/yhhe/code/LLaVA/llava/train/train_mem.py \
+DS_SKIP_CUDA_CHECK=1 deepspeed --include=localhost:2,6 /data2/yhhe/code/LLaVA/llava/train/train_mem.py \
     --deepspeed ./scripts/zero3_offload.json \
     --model_name_or_path lmsys/vicuna-13b-v1.3 \
     --version v1 \
-    --data_path /data2/yhhe/code/ScienceQA/data/scienceqa/llava_train_realigned_v4.json \
+    --data_path /data2/yhhe/code/ScienceQA/data/scienceqa/llava_train_short.json \
     --image_folder /data2/yhhe/code/ScienceQA/data/scienceqa/images/train \
     --vision_tower openai/clip-vit-large-patch14 \
     --pretrain_mm_mlp_adapter ./checkpoints/llava-pretrain-vicuna-13b-v1.3/mm_projector.bin \
@@ -20,22 +20,22 @@ DS_SKIP_CUDA_CHECK=1 deepspeed --include=localhost:0,1,2,3,4,5,6,7 /data2/yhhe/c
     --mm_use_im_start_end False \
     --mm_use_im_patch_token False \
     --bf16 True \
-    --output_dir ./checkpoints/llava-vicuna-13b-v1.3-reformat-v4-12e \
+    --output_dir ./checkpoints/llava-vicuna-13b-v1.3-short-12e \
     --num_train_epochs 12 \
-    --per_device_train_batch_size 16 \
+    --per_device_train_batch_size 64 \
     --per_device_eval_batch_size 4 \
     --gradient_accumulation_steps 1 \
     --evaluation_strategy "no" \
     --save_strategy "steps" \
     --save_steps 200 \
-    --save_total_limit 1 \
+    --save_total_limit 2 \
     --learning_rate 2e-5 \
     --weight_decay 0. \
     --warmup_ratio 0.03 \
     --lr_scheduler_type "cosine" \
     --logging_steps 1 \
     --tf32 True \
-    --model_max_length 2048 \
+    --model_max_length 1028 \
     --gradient_checkpointing True \
     --dataloader_num_workers 4 \
     --lazy_preprocess True \
