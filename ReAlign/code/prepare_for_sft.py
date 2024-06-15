@@ -107,12 +107,12 @@ def reformat_json_2(data, problems):
         answer = chr(int(problems[entry["id"]]["answer"]) + 65)  # 'A' = 65
 
         # 遍历 items 并只保留需要的信息
-        for item in entry["items"]:
+        for item in entry["conversations"]:
             from_ = item["from"]
             value_ = item["value"]
 
             if str(from_) == "gpt":
-                value_ = answer + "."
+                value_ = "The answer is " + answer + "."
 
             conversation = {
                 "from": from_,
@@ -128,7 +128,7 @@ def reformat_json_2(data, problems):
 
 def main():
     # 读取原始JSON文件
-    with open("/data2/yhhe/code/ReAlign/code/realign_dataset.json", 'r', encoding='utf-8') as f:
+    with open("/data2/yhhe/code/ScienceQA/data/scienceqa/llava_minitrain_QCM-LEA.json", 'r', encoding='utf-8') as f:
         input_data = json.load(f)
 
     with open("/data2/yhhe/code/ScienceQA/data/scienceqa/problems.json", 'r', encoding='utf-8') as f2:
@@ -138,7 +138,7 @@ def main():
     output_data = reformat_json_2(input_data, problems)
 
     # 保存转换后的结果到新的JSON文件
-    with open('/data2/yhhe/code/ScienceQA/data/scienceqa/llava_train_short_v2.json', 'w', encoding='utf-8') as f:
+    with open('/data2/yhhe/code/ScienceQA/data/scienceqa/llava_minitrain_short.json', 'w', encoding='utf-8') as f:
         json.dump(output_data, f, indent=4, ensure_ascii=False)
 
 

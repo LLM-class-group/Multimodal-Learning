@@ -48,7 +48,7 @@ def rewrite_response_request(question, response, structure, evidences, args):
     if len(evidences) > 0:
         system_instruction = REWRITING_RETRIEVAL_SYSTEM_PROMPT
         evidence_str = evidence_str_generate(evidences)
-        user_input = REWRITING_RETRIEVAL_USER_PROMPT.format(question=question, response=response, structure=structure, evidence=evidence_str)
+        user_input = REWRITING_RETRIEVAL_USER_PROMPT.format(question=question, response=response, structure=structure)
     else:
         system_instruction = REWRITING_SYSTEM_PROMPT
         user_input = REWRITING_USER_PROMPT.format(question=question, response=response, structure=structure)
@@ -78,7 +78,7 @@ def main():
     parser.add_argument('--dataset_batch_id', type=int, default=0)
     parser.add_argument('--dataset_batch_num', type=int, default=10)
     parser.add_argument('--openai_key', type=str)
-    parser.add_argument('--is_retrieval', action='store_true', default=True)
+    parser.add_argument('--is_retrieval', action='store_true', default=False)
     parser.add_argument('--top_k', type=int, default=2)
     parser.add_argument('--model', type=str, default='gpt-3.5-turbo-1106')
     parser.add_argument('--temperature', type=float, default=0.3)

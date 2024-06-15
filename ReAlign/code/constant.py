@@ -54,7 +54,7 @@ RAG_TASKS = [
     'fact_verification',
     'recommendations',
     'explain_answer',
-    "exam_problem_solving_tutor"
+    # "exam_problem_solving_tutor"
 ]
 
 
@@ -101,10 +101,11 @@ REWRITING_SYSTEM_PROMPT: str = '''
 Please act as a rewriter to modify the format of the AI assistant's response to the user's question presented below.
 
 Please follow the instructions below:
-1. Please first determine whether the given format meets the requirements of the user's question, if it does not, then copy the AI assistant's response, if it does, then modify the response's format following the provided format.
-2. Please first determine whether the original answer is a reasonable answer to the question. If not, please provide your own answer based on the evidence following the format, else, alter the format while keeping the original meaning and information intact.
+1. Please first determine whether the user's question needs reasoning, if it does not, then copy the AI assistant's response, if it does, then modify the response following the provided format.
+2. Please first determine whether the  AI assistant's response is a reasonable response to the question. If not, please provide your own answer following the format, else, modify the response following the provided format while keeping the original meaning and information intact.
 3. Please make sure that the revised response can answer the user's question correctly.
 4. Please make sure that the revised response is fluent and has no additional subheadings.
+5. Don't repeat the format in Revised response. Just output Revised response according to it.
 
 Please first write "Reasoning: <reason>" to provide a brief reasoning you used to modify, and then write "Revised response: <response>" to output your final revised response without any additional information, ensuring its fluency.
 Do not output any additional subheadings.
@@ -154,10 +155,6 @@ Below is a user's question, the AI assistant's response, the provided format, an
 [Format start]
 {structure}
 [Format end]
-
-[Evidence start]
-{evidence}
-[Evidence end]
 '''
 
 STRUCTURE: dict = {
@@ -221,7 +218,7 @@ The best emails are short, direct, professional, and scannable for the recipient
 
     'natural_language_learning_tutor': '''This is a task to answer the given question about natural language learning. First, analyze the question and give a brief analysis in the first paragraph. Then output the answer. Next, give an explanation. Last, give a conclusion.''',
 
-    "exam_problem_solving_tutor": '''This is a choice question. First, introduce some background knowledge related to answering questions and conduct a detailed analysis of the problem. Next, analyze in detail the process of solving the problem. Last, give a conclusion and finally give your answer by outputing: "The answer is \{\}." fill in your choices in the braces. Do not output the braces.''',
+    "exam_problem_solving_tutor": '''First, you should introduce some background knowledge related to the question. Next, you should analyze the process of solving the problem. Finally, strictly follow the following format to output your answer: "The answer is \{X\}." replace X with your option, but not the content of the option. Do not output the braces.''',
 
     'ml_ai_language_model_tutor': '''This is a question about machine learning, artificial intelligence or language model. Then output the answer. Next, give an explanation. Last, give a conclusion.''',
 

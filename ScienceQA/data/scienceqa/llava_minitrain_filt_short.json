@@ -1,0 +1,1881 @@
+[
+    {
+        "id": "35",
+        "image": "35/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of South Carolina?\nContext: N/A\nOptions: (A) Columbia (B) Montgomery (C) Charleston (D) Harrisburg\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Columbia is the capital of South Carolina. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "58",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which organ controls the function of other body organs?\nContext: N/A\nOptions: (A) skeleton (B) lungs (C) heart (D) brain"
+            },
+            {
+                "from": "gpt",
+                "value": " The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "556",
+        "image": "556/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Georgia?\nContext: N/A\nOptions: (A) Atlanta (B) Topeka (C) Athens (D) Savannah\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Atlanta is the capital of Georgia. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "1058",
+        "image": "1058/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) Cuba (B) Jamaica (C) Haiti (D) Dominica\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Jamaica. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "1084",
+        "image": "1084/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which ocean is highlighted?\nContext: N/A\nOptions: (A) the Atlantic Ocean (B) the Indian Ocean (C) the Arctic Ocean (D) the Southern Ocean\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Oceans are huge bodies of salt water. The world has five oceans. All of the oceans are connected, making one world ocean. This is the Atlantic Ocean. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "1107",
+        "image": "1107/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) Tuvalu (B) the Federated States of Micronesia (C) Palau (D) Fiji\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Palau. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "1117",
+        "image": "1117/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) New York (B) Vermont (C) Michigan (D) Indiana\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The colony is New York.\nDuring the colonial era, New Hampshire and New York both claimed the territory that would later become the state of Vermont. Vermont was never its own colony. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "1461",
+        "image": "1461/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Michigan?\nContext: N/A\nOptions: (A) Lansing (B) Detroit (C) Billings (D) Grand Rapids\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Lansing is the capital of Michigan. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "1519",
+        "image": "1519/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) the Marshall Islands (B) Solomon Islands (C) Australia (D) New Zealand\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Solomon Islands. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "1668",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which organ receives signals from the body's senses?\nContext: N/A\nOptions: (A) skeleton (B) heart (C) stomach (D) brain"
+            },
+            {
+                "from": "gpt",
+                "value": " The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "1887",
+        "image": "1887/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Ohio?\nContext: N/A\nOptions: (A) Topeka (B) Cincinnati (C) Columbus (D) Fayetteville\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Columbus is the capital of Ohio. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "1904",
+        "image": "1904/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Illinois?\nContext: N/A\nOptions: (A) Fayetteville (B) Chicago (C) Santa Fe (D) Springfield\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Springfield is the capital of Illinois. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "1998",
+        "image": "1998/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Massachusetts?\nContext: N/A\nOptions: (A) Boston (B) Plymouth (C) Atlanta (D) Providence\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Boston is the capital of Massachusetts. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "2139",
+        "image": "2139/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Massachusetts?\nContext: N/A\nOptions: (A) Concord (B) Cambridge (C) Boston (D) Missoula\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Boston is the capital of Massachusetts. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "2201",
+        "image": "2201/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of these cities is marked on the map?\nContext: N/A\nOptions: (A) Chicago (B) Cleveland (C) Indianapolis (D) St. Louis\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The city is Cleveland, Ohio. Chicago, Indianapolis, and St. Louis are marked with gray circles on the map below. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "2516",
+        "image": "2516/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Nevada?\nContext: N/A\nOptions: (A) Sacramento (B) Phoenix (C) Santa Fe (D) Carson City\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Carson City is the capital of Nevada. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "2525",
+        "image": "2525/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The United States has a federal system. Based on these definitions, which of these statements would most likely be made by a person who lives under a federal system?\nContext: Think about the name of the United States of America. As the name shows, the country has both a united national government and a collection of state governments. In the following questions, you will learn about the relationship between the national government and state governments. You will also learn about how state and local governments work.\nMany countries have both a national government and state governments. However, these countries divide power differently between the national and state governments. The table below describes three different systems for dividing power. Look at the table. Then answer the question below.\nOptions: (A) I only pay attention to state politics since the national government has almost no power. (B) My national government officials decide most issues that come up. (C) Both my state and national government officials have power over important issues.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": " The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "2570",
+        "image": "2570/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) New York (B) Mississippi (C) Connecticut (D) West Virginia\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The colony is New York.\nDuring the colonial era, New Hampshire and New York both claimed the territory that would later become the state of Vermont. Vermont was never its own colony. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "2640",
+        "image": "2640/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Arkansas?\nContext: N/A\nOptions: (A) Birmingham (B) Fayetteville (C) Savannah (D) Little Rock\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Little Rock is the capital of Arkansas. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "2880",
+        "image": "2880/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Colorado?\nContext: N/A\nOptions: (A) Helena (B) Denver (C) Colorado Springs (D) Kansas City\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Denver is the capital of Colorado. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "2887",
+        "image": "2887/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which continent is highlighted?\nContext: N/A\nOptions: (A) Europe (B) South America (C) Antarctica (D) Australia\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "A continent is one of the major land masses on the earth. Most people say there are seven continents. This continent is Europe. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "3191",
+        "image": "3191/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Rhode Island?\nContext: N/A\nOptions: (A) Cleveland (B) Providence (C) Harrisburg (D) Augusta\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Providence is the capital of Rhode Island. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "3506",
+        "image": "3506/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Nevada?\nContext: N/A\nOptions: (A) Salem (B) Carson City (C) Reno (D) Las Vegas\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Carson City is the capital of Nevada. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "3668",
+        "image": "3668/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of these cities is marked on the map?\nContext: N/A\nOptions: (A) Chicago (B) New York City (C) San Antonio (D) Atlanta\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The city is Chicago, Illinois. Atlanta, New York City, and San Antonio are marked with gray circles on the map below. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "4093",
+        "image": "4093/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) the Marshall Islands (B) Australia (C) Kiribati (D) Nauru\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Kiribati. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "4180",
+        "image": "4180/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which term matches the picture?\nContext: Read the text.\nA population's growth is affected by factors in the environment, such as space, available food, predators, and disease. When a population inhabits an environment with abundant resources and few limiting factors, it can experience exponential growth. Under these conditions, a population grows increasingly rapidly. Plotted on a graph with time on the x-axis and population size on the y-axis, exponential growth resembles a J-shaped curve. Logistic growth, in contrast, occurs when resources are scarce or a population faces considerable limiting factors, such as predators. Logistic growth resembles an S-shaped curve: it rises steeply at first but then levels off. When growth levels off, the population has reached the environment's carrying capacity, or the population limit it can support.\nOptions: (A) logistic growth (B) exponential growth\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "When a population is in an environment with abundant resources it may experience exponential growth. Plotted on an x-y axis, exponential growth resembles a J-shaped curve. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "4237",
+        "image": "4237/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which continent is highlighted?\nContext: N/A\nOptions: (A) Europe (B) Africa (C) South America (D) Australia\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "A continent is one of the seven largest areas of land on earth. This continent is Australia. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "4904",
+        "image": "4904/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Washington?\nContext: N/A\nOptions: (A) Helena (B) Olympia (C) Spokane (D) Saint Paul\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Olympia is the capital of Washington. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "4971",
+        "image": "4971/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which state is highlighted?\nContext: N/A\nOptions: (A) Virginia (B) Kentucky (C) Georgia (D) West Virginia\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This state is Georgia. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "5067",
+        "image": "5067/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Rhode Island?\nContext: N/A\nOptions: (A) Annapolis (B) Newport (C) Providence (D) Dover\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Providence is the capital of Rhode Island. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "5367",
+        "image": "5367/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of New Mexico?\nContext: N/A\nOptions: (A) Albuquerque (B) Salt Lake City (C) Honolulu (D) Santa Fe\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Santa Fe is the capital of New Mexico. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "5383",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of the following statements is true?\nContext: The Executive Branch of government is described in Article II of the United States Constitution. Read Section 1 of Article II. Then answer the question.\nThe executive power shall be vested in a president of the United States of America. He shall hold his office during the term of four years, and, together with the vice president, chosen for the same term, be elected.\nexecutive: related to the carrying out of laws\nvested in: given to\nOptions: (A) The president of the United States is in charge of carrying out the laws. (B) The president of the United States makes all laws."
+            },
+            {
+                "from": "gpt",
+                "value": " The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "5513",
+        "image": "5513/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of New York?\nContext: N/A\nOptions: (A) Juneau (B) Jackson (C) Albany (D) Montpelier\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Albany is the capital of New York. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "5534",
+        "image": "5534/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Utah?\nContext: N/A\nOptions: (A) Denver (B) Provo (C) Phoenix (D) Salt Lake City\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Salt Lake City is the capital of Utah. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "5752",
+        "image": "5752/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Based on the timeline, which statement is true?\nContext: After the French and Indian War ended in 1763, the relationship between the Thirteen Colonies and Great Britain began to change.\nThe timeline below shows some of the events that took place before the Revolutionary War broke out in 1775. Look at the timeline. Then answer the question below.\nOptions: (A) No colonists were killed by British soldiers before the American Revolution. (B) The First Continental Congress met to place new taxes on the Thirteen Colonies. (C) Colonists protested taxes created by the British government.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": " The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "5854",
+        "image": "5854/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Colorado?\nContext: N/A\nOptions: (A) Denver (B) Saint Louis (C) Frankfort (D) Colorado Springs\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Denver is the capital of Colorado. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "5908",
+        "image": "5908/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Florida?\nContext: N/A\nOptions: (A) Tallahassee (B) Salem (C) Tampa (D) Orlando\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Tallahassee is the capital of Florida. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "5938",
+        "image": "5938/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Alaska?\nContext: N/A\nOptions: (A) Anchorage (B) Green Bay (C) Salt Lake City (D) Juneau\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Juneau is the capital of Alaska. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "6106",
+        "image": "6106/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of North Carolina?\nContext: N/A\nOptions: (A) Charlotte (B) Hartford (C) Raleigh (D) Oklahoma City\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Raleigh is the capital of North Carolina. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "6132",
+        "image": "6132/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "The United States has a federal system. Based on these definitions, which of these statements would most likely be made by a person who lives under a federal system?\nContext: Think about the name of the United States of America. As the name shows, the country has both a united national government and a collection of state governments. In the following questions, you will learn about the relationship between the national government and state governments. You will also learn about how state and local governments work.\nMany countries have both a national government and state governments. However, these countries divide power differently between the national and state governments. The table below describes three different systems for dividing power. Look at the table. Then answer the question below.\nOptions: (A) My national government officials decide most issues that come up. (B) I only pay attention to state politics since the national government has almost no power. (C) Both my state and national government officials have power over important issues.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": " The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "6462",
+        "image": "6462/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Arizona?\nContext: N/A\nOptions: (A) Phoenix (B) Tucson (C) Olympia (D) Fort Wayne\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Phoenix is the capital of Arizona. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "6522",
+        "image": "6522/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Florida?\nContext: N/A\nOptions: (A) Tampa (B) Indianapolis (C) Tallahassee (D) Concord\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Tallahassee is the capital of Florida. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "6725",
+        "image": "6725/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which continent is highlighted?\nContext: N/A\nOptions: (A) Europe (B) Africa (C) South America (D) Antarctica\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "A continent is one of the major land masses on the earth. Most people say there are seven continents. This continent is Europe. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "6733",
+        "image": "6733/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of New Mexico?\nContext: N/A\nOptions: (A) Albuquerque (B) Santa Fe (C) Trenton (D) Sacramento\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Santa Fe is the capital of New Mexico. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "6907",
+        "image": "6907/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Maryland?\nContext: N/A\nOptions: (A) Provo (B) Baltimore (C) Annapolis (D) Providence\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Annapolis is the capital of Maryland. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "6937",
+        "image": "6937/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) Tonga (B) Samoa (C) Kiribati (D) Fiji\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Samoa. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "7112",
+        "image": "7112/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of South Carolina?\nContext: N/A\nOptions: (A) Charleston (B) Columbia (C) Frankfort (D) Baton Rouge\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Columbia is the capital of South Carolina. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "7131",
+        "image": "7131/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) South Carolina (B) Wisconsin (C) Florida (D) Maryland\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The colony is South Carolina. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "7228",
+        "image": "7228/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) the Marshall Islands (B) Papua New Guinea (C) Vanuatu (D) Solomon Islands\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Solomon Islands. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "7229",
+        "image": "7229/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of these cities is marked on the map?\nContext: N/A\nOptions: (A) Washington, D.C. (B) Pittsburgh (C) Boston (D) New York City\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The city is New York City, New York. Pittsburgh, Boston, and Washington, D.C., are marked with gray circles on the map below. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "7341",
+        "image": "7341/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Missouri?\nContext: N/A\nOptions: (A) Austin (B) Los Angeles (C) Kansas City (D) Jefferson City\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Jefferson City is the capital of Missouri. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "7599",
+        "image": "7599/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Maryland?\nContext: N/A\nOptions: (A) Boston (B) Baltimore (C) Annapolis (D) Honolulu\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Annapolis is the capital of Maryland. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "7763",
+        "image": "7763/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Kentucky?\nContext: N/A\nOptions: (A) Hartford (B) Frankfort (C) Colorado Springs (D) Louisville\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Frankfort is the capital of Kentucky. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "7828",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which change best matches the sentence?\nLava comes out of a crack in Earth's surface.\nContext: N/A\nOptions: (A) wildfire (B) volcanic eruption (C) flood"
+            },
+            {
+                "from": "gpt",
+                "value": " The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "8144",
+        "image": "8144/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which ocean is highlighted?\nContext: N/A\nOptions: (A) the Indian Ocean (B) the Southern Ocean (C) the Atlantic Ocean (D) the Pacific Ocean\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Oceans are huge bodies of salt water. The world has five oceans. All of the oceans are connected, making one world ocean. This is the Pacific Ocean. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "8164",
+        "image": "8164/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) Nauru (B) the Federated States of Micronesia (C) Papua New Guinea (D) Samoa\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is the Federated States of Micronesia. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "8202",
+        "image": "8202/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Connecticut?\nContext: N/A\nOptions: (A) Baton Rouge (B) Providence (C) Concord (D) Hartford\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Hartford is the capital of Connecticut. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "8655",
+        "image": "8655/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) Massachusetts (B) Georgia (C) North Carolina (D) South Carolina\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The colony is Georgia. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "8737",
+        "image": "8737/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which continent is highlighted?\nContext: N/A\nOptions: (A) Europe (B) North America (C) Antarctica\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "A continent is one of the seven largest areas of land on earth. This continent is Europe. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "8947",
+        "image": "8947/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which ocean is highlighted?\nContext: N/A\nOptions: (A) the Arctic Ocean (B) the Indian Ocean (C) the Atlantic Ocean (D) the Southern Ocean\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Oceans are huge bodies of salt water. The world has five oceans. All of the oceans are connected, making one world ocean. This is the Indian Ocean. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "9145",
+        "image": "9145/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which continent is highlighted?\nContext: N/A\nOptions: (A) Australia (B) Africa (C) North America (D) South America\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "A continent is one of the seven largest areas of land on earth. This continent is Africa. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "9614",
+        "image": "9614/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Oklahoma?\nContext: N/A\nOptions: (A) Oklahoma City (B) Austin (C) Charleston (D) Tulsa\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Oklahoma City is the capital of Oklahoma. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "9616",
+        "image": "9616/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) Maryland (B) Pennsylvania (C) Florida (D) Connecticut\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The colony is Connecticut. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "10226",
+        "image": "10226/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of New Hampshire?\nContext: N/A\nOptions: (A) Raleigh (B) Concord (C) Manchester (D) Juneau\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Concord is the capital of New Hampshire. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "10485",
+        "image": "10485/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of New Jersey?\nContext: N/A\nOptions: (A) Trenton (B) Hartford (C) Annapolis (D) Dover\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Trenton is the capital of New Jersey. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "10742",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Select the mixture.\nContext: N/A\nOptions: (A) tomato soup (B) salt"
+            },
+            {
+                "from": "gpt",
+                "value": "A pure substance is made of only one type of matter.\nA mixture is made of two or more types of matter mixed together. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "10963",
+        "image": "10963/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) New Jersey (B) Maryland (C) North Carolina (D) Alabama\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The colony is North Carolina. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "11074",
+        "image": "11074/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which statement is supported by the map?\nContext: The map below shows a network of trade routes known as the Silk Road. Between 200 BCE and 1350 CE, merchants, or traders, traveled along many parts of these routes.\nLook at the map showing the Silk Road around 100 CE. Then answer the question below.\nOptions: (A) The Silk Road connected only Asia and Europe. (B) The Silk Road allowed merchants to travel from Asia to the Americas. (C) The Silk Road included both land and sea routes.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": " The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "11156",
+        "image": "11156/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Washington?\nContext: N/A\nOptions: (A) Santa Fe (B) Olympia (C) Helena (D) Seattle\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Olympia is the capital of Washington. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "11237",
+        "image": "11237/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which continent is highlighted?\nContext: N/A\nOptions: (A) Africa (B) North America (C) South America (D) Antarctica\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "A continent is one of the major land masses on the earth. Most people say there are seven continents. This continent is Antarctica. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "11294",
+        "image": "11294/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) Kiribati (B) Vanuatu (C) the Marshall Islands (D) Nauru\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Nauru. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "11541",
+        "image": "11541/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) Saint Vincent and the Grenadines (B) Barbados (C) Saint Lucia (D) Cuba\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Barbados. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "11570",
+        "image": "11570/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Oregon?\nContext: N/A\nOptions: (A) Boise (B) Portland (C) Nampa (D) Salem\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Salem is the capital of Oregon. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "11619",
+        "image": "11619/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Minnesota?\nContext: N/A\nOptions: (A) Pierre (B) Minneapolis (C) Wichita (D) Saint Paul\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Saint Paul is the capital of Minnesota. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "11626",
+        "image": "11626/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Virginia?\nContext: N/A\nOptions: (A) Hartford (B) Richmond (C) Norfolk (D) Austin\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Richmond is the capital of Virginia. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "11702",
+        "image": "11702/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Virginia?\nContext: N/A\nOptions: (A) Concord (B) Austin (C) Richmond (D) Arlington\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Richmond is the capital of Virginia. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "11855",
+        "image": "11855/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which ocean is highlighted?\nContext: N/A\nOptions: (A) the Atlantic Ocean (B) the Pacific Ocean (C) the Indian Ocean (D) the Arctic Ocean\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Oceans are huge bodies of salt water. The world has five oceans. All of the oceans are connected, making one world ocean. This is the Pacific Ocean. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "12126",
+        "image": "12126/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Oregon?\nContext: N/A\nOptions: (A) Burlington (B) Salem (C) Denver (D) Jackson\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Salem is the capital of Oregon. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "12147",
+        "image": "12147/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) Indiana (B) Virginia (C) Vermont (D) West Virginia\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The colony is Virginia.\nThe Virginia Colony included land that would later become part of the state of West Virginia. West Virginia was never its own colony. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "12187",
+        "image": "12187/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) New Jersey (B) Tennessee (C) Delaware (D) North Carolina\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The colony is North Carolina. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "12325",
+        "image": "12325/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Arizona?\nContext: N/A\nOptions: (A) Carson City (B) Nashville (C) Tucson (D) Phoenix\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Phoenix is the capital of Arizona. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "12378",
+        "image": "12378/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Georgia?\nContext: N/A\nOptions: (A) Tallahassee (B) Atlanta (C) Salt Lake City (D) Athens\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Atlanta is the capital of Georgia. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "12810",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Answer the riddle.\nI am small.\nI like to play.\nMy mom is a dog.\nWhat am I?\nContext: N/A\nOptions: (A) a puppy (B) a kitten"
+            },
+            {
+                "from": "gpt",
+                "value": "A puppy is small.\nA puppy likes to play.\nA puppy's mom is a dog. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "12973",
+        "image": "12973/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which ocean is highlighted?\nContext: N/A\nOptions: (A) the Atlantic Ocean (B) the Pacific Ocean (C) the Southern Ocean (D) the Indian Ocean\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Oceans are huge bodies of salt water. The world has five oceans. All of the oceans are connected, making one world ocean. This is the Atlantic Ocean. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "13075",
+        "image": "13075/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) North Carolina (B) Virginia (C) Connecticut (D) Georgia\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The colony is North Carolina. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "13517",
+        "image": "13517/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Tennessee?\nContext: N/A\nOptions: (A) Nashville (B) Montgomery (C) Knoxville (D) Charleston\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Nashville is the capital of Tennessee. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "13819",
+        "image": "13819/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which term matches the picture?\nContext: Read the text.\nThe nucleus is an important feature of a eukaryotic cell. The nucleus is usually round and stores long coiled structures called chromosomes, which contain the cell's genetic material.\nA prokaryotic cell, by contrast, doesn't have a nucleus. Instead, its chromosomes are loose in the cell, not surrounded by a membrane. Because prokaryotic cells lack nuclei and other membrane-bound structures, prokaryotic cells are typically simpler than eukaryotic cells.\nOptions: (A) prokaryotic cell (B) eukaryotic cell\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "A prokaryotic cell is a cell that does not have a nucleus. Its chromosomes are loose in the cell. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "13897",
+        "image": "13897/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Hawaii?\nContext: N/A\nOptions: (A) Pierre (B) Santa Fe (C) Sacramento (D) Honolulu\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Honolulu is the capital of Hawaii. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "14181",
+        "image": "14181/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) Saint Lucia (B) Haiti (C) Saint Vincent and the Grenadines (D) Barbados\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Barbados. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "14250",
+        "image": "14250/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of these cities is marked on the map?\nContext: N/A\nOptions: (A) Los Angeles (B) Denver (C) Las Vegas (D) San Jose\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The city is San Jose, California. Los Angeles, Denver, and Las Vegas are marked with gray circles on the map below. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "14671",
+        "image": "14671/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Wyoming?\nContext: N/A\nOptions: (A) Boise (B) Cheyenne (C) Providence (D) Nampa\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Cheyenne is the capital of Wyoming. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "14903",
+        "image": "14903/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Nevada?\nContext: N/A\nOptions: (A) Juneau (B) Las Vegas (C) Carson City (D) Denver\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Carson City is the capital of Nevada. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "15193",
+        "image": "15193/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of New Mexico?\nContext: N/A\nOptions: (A) Olympia (B) Salem (C) Denver (D) Santa Fe\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Santa Fe is the capital of New Mexico. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "15355",
+        "image": "15355/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of North Carolina?\nContext: N/A\nOptions: (A) Raleigh (B) Louisville (C) Salt Lake City (D) Boston\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Raleigh is the capital of North Carolina. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "15477",
+        "image": "15477/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) Georgia (B) South Carolina (C) Massachusetts (D) Connecticut\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The colony is South Carolina. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "15598",
+        "image": "15598/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which continent is highlighted?\nContext: N/A\nOptions: (A) Australia (B) Africa (C) North America (D) Asia\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "A continent is one of the major land masses on the earth. Most people say there are seven continents. This continent is Africa. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "15638",
+        "image": "15638/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) Haiti (B) Jamaica (C) Saint Kitts and Nevis (D) Cuba\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Jamaica. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "15709",
+        "image": "15709/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of South Carolina?\nContext: N/A\nOptions: (A) Columbia (B) Nampa (C) Charleston (D) Phoenix\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Columbia is the capital of South Carolina. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "15883",
+        "image": "15883/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Minnesota?\nContext: N/A\nOptions: (A) Saint Paul (B) Columbus (C) Manchester (D) Minneapolis\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Saint Paul is the capital of Minnesota. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "16059",
+        "image": "16059/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of California?\nContext: N/A\nOptions: (A) Knoxville (B) San Francisco (C) Columbus (D) Sacramento\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Sacramento is the capital of California. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "16134",
+        "image": "16134/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Nevada?\nContext: N/A\nOptions: (A) Las Vegas (B) Dover (C) Reno (D) Carson City\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Carson City is the capital of Nevada. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "16232",
+        "image": "16232/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Illinois?\nContext: N/A\nOptions: (A) Springfield (B) Saint Paul (C) Boise (D) Chicago\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Springfield is the capital of Illinois. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "16286",
+        "image": "16286/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which ocean is highlighted?\nContext: N/A\nOptions: (A) the Southern Ocean (B) the Indian Ocean (C) the Arctic Ocean (D) the Atlantic Ocean\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Oceans are huge bodies of salt water. The world has five oceans. All of the oceans are connected, making one world ocean. This is the Atlantic Ocean. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "16407",
+        "image": "16407/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Maryland?\nContext: N/A\nOptions: (A) Augusta (B) Harrisburg (C) Annapolis (D) Newport\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Annapolis is the capital of Maryland. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "16416",
+        "image": "16416/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) Saint Lucia (B) Barbados (C) Saint Vincent and the Grenadines (D) Antigua and Barbuda\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Saint Lucia. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "16597",
+        "image": "16597/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Washington?\nContext: N/A\nOptions: (A) New York City (B) Seattle (C) Spokane (D) Olympia\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Olympia is the capital of Washington. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "16862",
+        "image": "16862/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which continent is highlighted?\nContext: N/A\nOptions: (A) Asia (B) Australia (C) Africa (D) Europe\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "A continent is one of the major land masses on the earth. Most people say there are seven continents. This continent is Africa. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "16925",
+        "image": "16925/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of these cities is marked on the map?\nContext: N/A\nOptions: (A) New York City (B) Philadelphia (C) Pittsburgh (D) Washington, D.C.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The city is Washington, D.C. Philadelphia, Pittsburgh, and New York City are marked with gray circles on the map below. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "17265",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which organ releases carbon dioxide from the body?\nContext: N/A\nOptions: (A) heart (B) brain (C) muscles (D) lungs"
+            },
+            {
+                "from": "gpt",
+                "value": " The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "17915",
+        "image": "17915/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of New Mexico?\nContext: N/A\nOptions: (A) Cheyenne (B) Santa Fe (C) Juneau (D) Albuquerque\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Santa Fe is the capital of New Mexico. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "18452",
+        "image": "18452/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which term matches the picture?\nContext: Read the text.\nThere are two kinds of energy: kinetic and potential. Kinetic energy is the energy of a moving object. Wind and flowing water both have kinetic energy. Another type of energy is potential energy. There are different types of potential energy. You can think of potential energy as kinds of stored energy. For example, a compressed spring has elastic potential energy. If it doesn't have something holding it down, its energy will be released and it will spring forward.\nOptions: (A) kinetic energy (B) potential energy\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Potential energy is stored energy that is not yet being used. The rubber band of a pulled-back slingshot has potential energy. It could be released, causing it to propel forward. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "18493",
+        "image": "18493/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which ocean is highlighted?\nContext: N/A\nOptions: (A) the Indian Ocean (B) the Arctic Ocean (C) the Pacific Ocean (D) the Atlantic Ocean\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Oceans are huge bodies of salt water. The world has five oceans. All of the oceans are connected, making one world ocean. This is the Indian Ocean. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "18581",
+        "image": "18581/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Washington?\nContext: N/A\nOptions: (A) Olympia (B) Cheyenne (C) Denver (D) Seattle\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Olympia is the capital of Washington. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "18587",
+        "image": "18587/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which ocean is highlighted?\nContext: N/A\nOptions: (A) the Atlantic Ocean (B) the Arctic Ocean (C) the Pacific Ocean (D) the Southern Ocean\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Oceans are huge bodies of salt water. The world has five oceans. All of the oceans are connected, making one world ocean. This is the Arctic Ocean. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "18611",
+        "image": "18611/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which state is highlighted?\nContext: N/A\nOptions: (A) Florida (B) Mississippi (C) Texas (D) North Carolina\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This state is Texas. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "18622",
+        "image": "18622/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Arizona?\nContext: N/A\nOptions: (A) Phoenix (B) Sacramento (C) Olympia (D) Denver\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Phoenix is the capital of Arizona. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "18784",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the following statement true or false?\nA plant cell does not have a nucleus.\nContext: N/A\nOptions: (A) false (B) true"
+            },
+            {
+                "from": "gpt",
+                "value": "A plant cell does not have a nucleus.\nThis statement is false. Not every cell has a nucleus, but most plant and animal cells have one. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "18833",
+        "image": "18833/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Vermont?\nContext: N/A\nOptions: (A) Annapolis (B) Burlington (C) Newport (D) Montpelier\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Montpelier is the capital of Vermont. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "19005",
+        "image": "19005/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) Grenada (B) Saint Kitts and Nevis (C) Saint Lucia (D) Saint Vincent and the Grenadines\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Saint Lucia. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "19097",
+        "image": "19097/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) Vermont (B) New York (C) Virginia (D) South Carolina\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The colony is New York.\nDuring the colonial era, New Hampshire and New York both claimed the territory that would later become the state of Vermont. Vermont was never its own colony. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "19214",
+        "image": "19214/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) Massachusetts (B) Rhode Island (C) Connecticut (D) New Hampshire\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The colony is Massachusetts.\nThe Massachusetts Colony included land that would later become the state of Maine. Maine was never its own colony. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "19551",
+        "image": "19551/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of California?\nContext: N/A\nOptions: (A) Lincoln (B) Sacramento (C) Spokane (D) Juneau\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Sacramento is the capital of California. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "19579",
+        "image": "19579/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Connecticut?\nContext: N/A\nOptions: (A) Denver (B) Bridgeport (C) New Haven (D) Hartford\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Hartford is the capital of Connecticut. The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "19645",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Answer the riddle.\nI live on a farm.\nI am fluffy.\nI will grow up to be a sheep.\nWhat am I?\nContext: N/A\nOptions: (A) a lamb (B) a hen"
+            },
+            {
+                "from": "gpt",
+                "value": "A lamb lives on a farm.\nA lamb is fluffy.\nA lamb will grow up to be a sheep. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "19838",
+        "image": "19838/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) the Federated States of Micronesia (B) Tuvalu (C) Kiribati (D) Tonga\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Tuvalu. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "19881",
+        "image": "19881/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) Antigua and Barbuda (B) Saint Kitts and Nevis (C) Haiti (D) Barbados\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is Antigua and Barbuda. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "19884",
+        "image": "19884/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) Connecticut (B) Rhode Island (C) New Jersey (D) Wisconsin\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The colony is Rhode Island. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "19893",
+        "image": "19893/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) the Federated States of Micronesia (B) Papua New Guinea (C) Nauru (D) the Marshall Islands\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This country is the Federated States of Micronesia. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "20078",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which organ works in groups to move the body's bones?\nContext: N/A\nOptions: (A) heart (B) stomach (C) brain (D) muscles"
+            },
+            {
+                "from": "gpt",
+                "value": " The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "20112",
+        "image": "20112/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Delaware?\nContext: N/A\nOptions: (A) Dover (B) Topeka (C) Wilmington (D) Wichita\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Dover is the capital of Delaware. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "20276",
+        "image": "20276/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of these cities is marked on the map?\nContext: N/A\nOptions: (A) Salt Lake City (B) San Francisco (C) Phoenix (D) Seattle\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The city is Salt Lake City, Utah. San Francisco, Seattle, and Phoenix are marked with gray circles on the map below. The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "20563",
+        "image": "20563/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which state is highlighted?\nContext: N/A\nOptions: (A) Oregon (B) California (C) Montana (D) Nevada\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "This state is Montana. The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "20791",
+        "image": "20791/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of New Hampshire?\nContext: N/A\nOptions: (A) Newport (B) Concord (C) Boston (D) Albany\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Concord is the capital of New Hampshire. The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "20795",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which change better matches the sentence?\nA grassy hill catches fire and burns.\nContext: N/A\nOptions: (A) erosion (B) wildfire"
+            },
+            {
+                "from": "gpt",
+                "value": " The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "20805",
+        "image": "20805/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Kansas?\nContext: N/A\nOptions: (A) Frankfort (B) Des Moines (C) Topeka (D) Jefferson City\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "Topeka is the capital of Kansas. The answer is C."
+            }
+        ]
+    }
+]

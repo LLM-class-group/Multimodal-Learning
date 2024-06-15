@@ -1,0 +1,1339 @@
+[
+    {
+        "id": "318",
+        "image": "318/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is corundum a mineral or a rock?\nContext: Corundum has the following properties:\nfixed crystal structure\nsolid\npure substance\nfound in nature\nvery hard\nnot made by organisms\nOptions: (A) mineral (B) rock\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "1025",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do these two changes have in common?\nburning a marshmallow over a campfire\nboiling an egg\nContext: N/A\nOptions: (A) Both are caused by heating. (B) Both are only physical changes. (C) Both are caused by cooling."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "1052",
+        "image": "1052/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of North Dakota?\nContext: N/A\nOptions: (A) Little Rock (B) Fargo (C) Bismarck (D) Grand Rapids\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "1288",
+        "image": "1288/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?\nContext: The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles.\nOptions: (A) sample A (B) sample B (C) neither; the samples have the same temperature\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "1368",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do these two changes have in common?\nwater vapor condensing on a bathroom mirror\nyour breath becoming visible on a cold day\nContext: N/A\nOptions: (A) Both are caused by heating. (B) Both are only physical changes. (C) Both are chemical changes."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "1830",
+        "image": "1830/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of the following statements is true?\nContext: Look at the images and read the text. Then, answer the question.\n\nFigure 1: a photograph of bryum moss.\nThis image is a photograph of a plant called bryum moss. The photograph was taken with an ordinary camera. It shows what you would see if you looked at bryum moss closely.\n\nFigure 2: a micrograph of bryum moss.\nThis image also shows bryum moss. The image is a micrograph, which is a magnified picture taken with the aid of a microscope. The magnified image shows a section of the plant that is only 0.37 millimeters long!\nThe micrograph shows that the plant is made up of small, similarly shaped units. In this image, each unit looks like it has six sides and is surrounded by a white border. These units are called cells.\nOptions: (A) Each bryum moss cell is so small that it can be seen only with the help of a microscope. (B) The organism shown in the micrograph is made up of cells, but the organism in the photograph is not. (C) Each bryum moss cell is over 0.37 millimeters long.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "2509",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Assume all other forces on Owen are balanced. Which statement describes the forces on Owen?\nContext: Owen is standing on a diving board at the pool. Earth's gravity is pulling down on Owen with a force of 400N. The diving board is pushing up on Owen with a force of 400N.\nOptions: (A) The forces are unbalanced, so there is a net force on Owen. (B) The forces are balanced, so there is no net force on Owen."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "2703",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which change better matches the sentence?\nFlowing water carries away sand and mud.\nContext: N/A\nOptions: (A) wildfire (B) erosion"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "2869",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which figure of speech is used in this text?\nErin Brockovich, a single mother with no legal training, helped win a daunting court battle against a Goliath energy company.\nContext: N/A\nOptions: (A) allusion (B) onomatopoeia"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "2944",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which is a complete sentence?\nContext: N/A\nOptions: (A) The farmers pick the corn and beans. (B) That awful noise from the large factory."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "3392",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Would you find the word unite on a dictionary page with the following guide words?\numbrella - usual\nContext: N/A\nOptions: (A) yes (B) no"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "3443",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Select the one substance that is not a rock.\nContext: N/A\nOptions: (A) Conglomerate is not made by living things. It is not a pure substance. (B) A computer processor is made in a factory. It is a solid. (C) Marble is not made by living things. It is not a pure substance."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "3580",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which figure of speech is used in this text?\nRonald remarked that the new book on anti-gravity was impossible to put down.\nContext: N/A\nOptions: (A) pun (B) alliteration"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "4059",
+        "image": "4059/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the expected ratio of offspring with white wool to offspring with black wool? Choose the most likely ratio.\nContext: In a group of sheep, some individuals have white wool and others have black wool. In this group, the gene for the wool color trait has two alleles. The allele for white wool (L) is dominant over the allele for black wool (l).\nThis Punnett square shows a cross between two sheep.\nOptions: (A) 2:2 (B) 4:0 (C) 3:1 (D) 0:4 (E) 1:3\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "4249",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the following statement true or false?\nAn animal cell has a cell membrane.\nContext: N/A\nOptions: (A) true (B) false"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "4438",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Would you find the word traitor on a dictionary page with the following guide words?\nthirteen - tinsel\nContext: N/A\nOptions: (A) yes (B) no"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "4662",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do these two changes have in common?\na piece of pear turning brown\nsalt and vinegar removing tarnish from a penny\nContext: N/A\nOptions: (A) Both are only physical changes. (B) Both are caused by heating. (C) Both are caused by cooling. (D) Both are chemical changes."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "5098",
+        "image": "5098/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which statement describes the Eastern Siberian Taiga ecosystem?\nContext: Figure: East Siberian Taiga.\nThe Eastern Siberian Taiga is a large forest that covers more than a quarter of Russia. It is home to brown bears, wolves, deer, and other organisms.\nOptions: (A) It has soil that is rich in nutrients. (B) It has many evergreen trees. (C) It has soil that is frozen year-round.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "5205",
+        "image": "5205/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is Megaptera novaeangliae made up of many cells?\nContext: This organism is Megaptera novaeangliae. It is a member of the animal kingdom.\nMegaptera novaeangliae is commonly called a humpback whale. Humpback whales are famous for their underwater singing. They sing to communicate with one another over long distances. Male humpback whales can sing for up to 24 hours straight!\nOptions: (A) yes (B) no\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "5300",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Complete the statement. Assume that Anthony's mass did not change.\nThe gravitational potential energy stored between Anthony and Earth () as he hiked toward the summit.\nContext: Read the text about a person in motion.\nAnthony hiked up a tall mountain. He followed a trail all the way to the summit.\nOptions: (A) increased (B) decreased (C) stayed the same"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "5305",
+        "image": "5305/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which part of a flower can make eggs?\nContext: This diagram shows the life cycle of an apple tree.\nOptions: (A) the male part (B) the female part\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "5337",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Read the following excerpt from a student essay. How can the writer best improve his or her ideas and development?\nIn the second half of the story, the man finally recognizes the power of nature. He tries to build a fire because of the extremely cold temperature. He is able to start a fire, so he thinks he will survive. However, melting ice from the branches above extinguishes the fire. His half-frozen fingers are too stiff to move, so he clutches desperately to relight the fire. Despite having plenty of matches, he realizes that he won't be able to make it.\nContext: N/A\nOptions: (A) by including more examples from the text (B) by removing the second main idea (C) by including more analysis"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "5374",
+        "image": "5374/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which country is highlighted?\nContext: N/A\nOptions: (A) Saint Vincent and the Grenadines (B) Trinidad and Tobago (C) Dominica (D) Grenada\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "5386",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which word would you find on a dictionary page with the following guide words?\nriddle - ruby\nContext: N/A\nOptions: (A) royal (B) rack"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "5613",
+        "image": "5613/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of South Dakota?\nContext: N/A\nOptions: (A) Des Moines (B) Lansing (C) Sioux Falls (D) Pierre\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "5793",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "How long does it take to do ten jumping jacks?\nContext: Select the better estimate.\nOptions: (A) 28 seconds (B) 28 hours"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "5865",
+        "image": "5865/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the following statement about our solar system true or false?\nEarth is the largest planet that is made mainly of rock.\nContext: Use the data to answer the question below.\nOptions: (A) false (B) true\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "6319",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do these two changes have in common?\nmixing lettuce and salad dressing\nsewing an apron\nContext: N/A\nOptions: (A) Both are caused by cooling. (B) Both are chemical changes. (C) Both are caused by heating. (D) Both are only physical changes."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "6450",
+        "image": "6450/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Select the fish below.\nContext: Fish live underwater. They have fins, not limbs. A manta ray is an example of a fish.\nOptions: (A) coral snake (B) cardinalfish\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "6471",
+        "image": "6471/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which animal's feet are also adapted to walk on snow and ice?\nContext: Polar bears live in cold, snowy areas near the Arctic Ocean. The 's feet are adapted for walking on snow and ice.\nFigure: polar bear.\nOptions: (A) Eurasian lynx (B) tokay gecko\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "6569",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Below are three examples of using energy from natural resources. Select the use of energy that did not add to air pollution.\nContext: Humans have invented many ways to use energy from natural resources. Some of these uses of energy add to air pollution, and others do not.\nHint: Burning a material such as wood, oil, or coal releases chemicals that add to air pollution.\nOptions: (A) A pellet stove burned pellets made from wood. (B) An airplane's engines burned jet fuel made from petroleum oil. (C) Wind moved a sailboat across the water."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "7102",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Select the temperature shown by this thermometer.\nContext: N/A\nOptions: (A) 10°C (B) 0°C (C) 20°C"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "7156",
+        "image": "7156/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Identify the question that Levi's experiment can best answer.\nContext: The passage below describes an experiment. Read the passage and then follow the instructions below.\n\nLevi mixed bacteria into a nutrient-rich liquid where the bacteria could grow. He poured four ounces of the mixture into each of ten glass flasks. In five of the ten flasks, he also added one teaspoon of cinnamon. He allowed the bacteria in the flasks to grow overnight in a 37°C room. Then, Levi used a microscope to count the number of bacteria in a small sample from each flask. He compared the amount of bacteria in the liquid with cinnamon to the amount of bacteria in the liquid without cinnamon.\nFigure: flasks of liquid for growing bacteria.\nOptions: (A) Does temperature affect how much bacteria can grow in liquid? (B) Do more bacteria grow in liquid with cinnamon than in liquid without cinnamon?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "7239",
+        "image": "7239/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Compare the average kinetic energies of the particles in each sample. Which sample has the higher temperature?\nContext: The diagrams below show two pure samples of gas in identical closed, rigid containers. Each colored ball represents one gas particle. Both samples have the same number of particles.\nOptions: (A) neither; the samples have the same temperature (B) sample B (C) sample A\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "7340",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What information supports the conclusion that Danielle inherited this trait?\nContext: Read the description of a trait.\nDanielle has red hair.\nOptions: (A) Danielle's parents have red hair. They passed down this trait to Danielle. (B) Danielle and her mother both wear their hair in braids."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "7440",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the source of the allusion in the sentence below?\nLee described the situation he was facing with his boss as a catch-22.\nContext: N/A\nOptions: (A) literature (B) a song"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "7525",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Select the one substance that is not a rock.\nContext: N/A\nOptions: (A) An eggshell is made by a living thing. It is formed in nature. (B) Soapstone is not a pure substance. It is a solid. (C) Trachyte is not a pure substance. It is not made by living things."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "7754",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which is a compound sentence?\nContext: N/A\nOptions: (A) At the auction, several paintings by famous artists were for sale, including one by Pablo Picasso. (B) Nile crocodiles mainly eat fish, but they will also eat zebras, birds, and other crocodiles."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "7896",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do these two changes have in common?\nmilk going sour\na copper statue turning green\nContext: N/A\nOptions: (A) Both are caused by cooling. (B) Both are only physical changes. (C) Both are chemical changes. (D) Both are caused by heating."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "8136",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What information supports the conclusion that Jon acquired this trait?\nContext: Read the description of a trait.\nJon has a scar on his right arm.\nOptions: (A) Some scars fade more quickly than others. (B) Jon's scar was caused by an accident. He cut his arm when he fell off his bicycle."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "8232",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Select the elementary substance.\nContext: N/A\nOptions: (A) silicon dioxide (SiO2) (B) palladium (Pd) (C) carbon dioxide (CO2)"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "8273",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which change best matches the sentence?\nMany pieces of rock fall down a hill.\nContext: N/A\nOptions: (A) drought (B) deposition (C) landslide"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "8708",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the volume of a jar of baby food?\nContext: Select the best estimate.\nOptions: (A) 4 cups (B) 4 fluid ounces (C) 4 gallons"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "8765",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which figure of speech is used in this text?\nAll the joy the world contains\nHas come through wishing happiness for others.\nAll the misery the world contains\nHas come through wanting pleasure for oneself.\n—Shantideva, The Way of the Bodhisattva\nContext: N/A\nOptions: (A) understatement (B) antithesis"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "9034",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which text uses the word travesty in its traditional sense?\nContext: N/A\nOptions: (A) Mark realized that his essay about the Space Race was a bit inaccurate, but he still thought it a travesty that such an entertaining essay should receive a poor grade. (B) Mark's ill-researched essay about the Space Race received a poor grade because it presented such a travesty of the actual historical events."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "9099",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which would smell more?\nContext: N/A\nOptions: (A) bone (B) gum"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "9145",
+        "image": "9145/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which continent is highlighted?\nContext: N/A\nOptions: (A) Australia (B) Africa (C) North America (D) South America\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "9693",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Look at the word. Does it have a closed syllable or an open syllable?\nfrost\nContext: N/A\nOptions: (A) open (B) closed"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "9756",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Rosh Hashanah is an important holiday in which religion?\nContext: N/A\nOptions: (A) Islam (B) Judaism (C) Buddhism (D) Christianity"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "10263",
+        "image": "10263/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Select the reptile below.\nContext: Reptiles have scaly, waterproof skin. Most reptiles live on land.\nReptiles are cold-blooded. The body temperature of cold-blooded animals depends on their environment.\nA Mojave rattlesnake is an example of a reptile.\nOptions: (A) elongated tortoise (B) eagle ray (C) porcupinefish (D) fruit bat\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "10342",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which is a run-on sentence?\nContext: N/A\nOptions: (A) Mr. Vance wrote the problem on the board, Mitch found the answer. (B) The three explorers in the big forest."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "10985",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Based on this information, what is Bagheera's phenotype for the coat pattern trait?\nContext: In a group of leopards, some individuals have a spotted coat and others have a black coat. In this group, the gene for the coat pattern trait has two alleles. The allele A is for a spotted coat, and the allele a is for a black coat.\nBagheera, a leopard from this group, has a spotted coat. Bagheera has two alleles for a spotted coat.\nOptions: (A) AA (B) a spotted coat"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "11100",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Select the animal.\nContext: N/A\nOptions: (A) Oak trees can have thick branches. (B) Cherry trees can grow white or pink flowers. (C) Yellow jackets drink nectar and fruit. (D) Daffodils have a green stem."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "11158",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What information supports the conclusion that Tucker acquired this trait?\nContext: Read the description of a trait.\nTucker knows how to fly a kite.\nOptions: (A) Tucker's friend taught him how to fly a kite. (B) Tucker's neighbor taught him how to repair a kite. (C) Tucker likes to fly a kite with his younger brother."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "11286",
+        "image": "11286/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the probability that a rat produced by this cross will have dumbo ears?\nContext: This passage describes the ear type trait in rats:\nSome rats have dumbo ears, which are larger and rounder than normal ears. Dumbo ears are also set on the sides of the rat's head instead of on the top. The word dumbo comes from the name of a cartoon elephant whose ears had a similar appearance.\nIn a group of rats, some individuals have normal ears and others have dumbo ears. In this group, the gene for the ear type trait has two alleles. The allele for normal ears (E) is dominant over the allele for dumbo ears (e).\nThis Punnett square shows a cross between two rats.\nOptions: (A) 3/4 (B) 2/4 (C) 4/4 (D) 0/4 (E) 1/4\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "11883",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Based on this information, what is Fieval's phenotype for the fur color trait?\nContext: In a group of rabbits, some individuals have black fur and others have brown fur. In this group, the gene for the fur color trait has two alleles. The allele for brown fur (f) is recessive to the allele for black fur (F).\nFieval is a rabbit from this group. Fieval has the heterozygous genotype Ff for the fur color gene.\nOptions: (A) brown fur (B) black fur"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "12355",
+        "image": "12355/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nContext: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material, but some of them are different sizes and shapes.\nOptions: (A) The magnitude of the magnetic force is smaller in Pair 2. (B) The magnitude of the magnetic force is smaller in Pair 1. (C) The magnitude of the magnetic force is the same in both pairs.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "12426",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Select the mammal.\nContext: N/A\nOptions: (A) Banggai cardinalfish (B) green moray eel (C) rabbit (D) arroyo toad"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "12436",
+        "image": "12436/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which animal's mouth is also adapted to tear through meat?\nContext: Cougars are carnivores, or meat eaters. They eat mammals such as deer and rabbits. The 's mouth is adapted to tear through meat.\nFigure: cougar.\nOptions: (A) leopard (B) tamandua\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "12997",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Would you find the word upset on a dictionary page with the following guide words?\nunhappy - usual\nContext: N/A\nOptions: (A) yes (B) no"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "13111",
+        "image": "13111/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Identify the question that Carson's experiment can best answer.\nContext: The passage below describes an experiment. Read the passage and then follow the instructions below.\n\nCarson made six batches of muffins over the course of one day. He used whole wheat flour in three of the batches and white flour in the other three batches. He divided the batter into muffin tins, using two ounces of batter per muffin. He baked the muffins in a 350°F oven for 20 minutes. After allowing the muffins to cool, Carson measured the dimensions of the muffins and calculated their volumes. He compared the volumes of the muffins made with whole wheat flour to the volumes of the muffins made with white flour.\nFigure: muffins cooling.\nOptions: (A) Does the type of flour used in the muffins affect the number of muffins that turn brown after 30 minutes in the oven? (B) Do muffins made with white flour have larger volumes than muffins made with whole wheat flour?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "13358",
+        "image": "13358/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is this wasp's scientific name?\nContext: This species of wasp lives in New Zealand. The scientists who discovered this wasp described it as short and stout. Its scientific name refers to the hobbit Bilbo from J. R. R. Tolkien's The Lord of the Rings.\nOptions: (A) Shireplitis bilboi (B) Paroplitis wesmaeli\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "13405",
+        "image": "13405/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the name of the colony shown?\nContext: N/A\nOptions: (A) Florida (B) Maine (C) New Hampshire (D) Connecticut\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "13638",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Using only these supplies, which question can Tisha investigate with an experiment?\nContext: Tisha gets a basketball for her birthday and dribbles it around her neighborhood. She notices that sometimes the ball bounces higher than other times. She wonders what factors affect how high her ball bounces. So, she decides to design an experiment. She has the following supplies available:\none basketball\naccess to a brick patio\naccess to a grassy lawn\naccess to a gravel driveway\na meterstick\nOptions: (A) Do larger basketballs bounce higher than smaller basketballs on a brick patio? (B) Does the basketball bounce higher on gravel or on grass? (C) Does the basketball bounce higher on a lawn or on a dirt path?"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "13680",
+        "image": "13680/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nContext: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material.\nOptions: (A) The magnetic force is stronger in Pair 2. (B) The magnetic force is stronger in Pair 1. (C) The strength of the magnetic force is the same in both pairs.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "14295",
+        "image": "14295/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nContext: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material, but some of them are different sizes.\nOptions: (A) The magnitude of the magnetic force is greater in Pair 1. (B) The magnitude of the magnetic force is greater in Pair 2. (C) The magnitude of the magnetic force is the same in both pairs.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "14503",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which type of sentence is this?\nAs Mike sat down on the rickety old chair, it abruptly collapsed beneath him.\nContext: N/A\nOptions: (A) compound (B) simple (C) compound-complex (D) complex"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "14655",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which tense does the sentence use?\nJanelle baked banana bread with nuts.\nContext: N/A\nOptions: (A) future tense (B) past tense (C) present tense"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "14670",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which tense does the sentence use?\nSue orders a roast beef sandwich.\nContext: N/A\nOptions: (A) present tense (B) future tense (C) past tense"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "14994",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which word would you find on a dictionary page with the following guide words?\nchute - crush\nContext: N/A\nOptions: (A) comic (B) cubic"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "15394",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which object has less thermal energy?\nContext: The objects are identical except for their temperatures.\nOptions: (A) a 200-gram glass of grape juice at a temperature of 20°C (B) a 200-gram glass of grape juice at a temperature of 10°C"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "15771",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which phrase has a more positive connotation?\nContext: N/A\nOptions: (A) having a meal (B) having a feast"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "15861",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Based on this information, what is Salsa's genotype for the fur length gene?\nContext: In a group of cats, some individuals have short fur and others have long fur. In this group, the gene for the fur length trait has two alleles. The allele F is for short fur, and the allele f is for long fur.\nSalsa, a cat from this group, has short fur. Salsa has one allele for short fur and one allele for long fur.\nOptions: (A) short fur (B) Ff"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "16303",
+        "image": "16303/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Is the air moving through a flute a solid, a liquid, or a gas?\nContext: N/A\nOptions: (A) a solid (B) a gas (C) a liquid\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "16467",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Select the animal.\nContext: N/A\nOptions: (A) Apple trees can grow fruit. (B) Anteaters walk and run."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "16521",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Complete the sentence.\nIn this chemical reaction, zinc is a ().\nContext: This passage describes a chemical reaction. Read the passage. Then, follow the instructions below.\nMany watches are powered by small, flat batteries called button cells. One common type of button cell contains the metal zinc. When zinc in the battery combines with oxygen in the air, zinc oxide forms. This process generates the electricity that powers the watch.\nOptions: (A) reactant (B) product"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "16615",
+        "image": "16615/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Can Hydra vulgaris cells make their own food?\nContext: This organism is Hydra vulgaris. It is a member of the animal kingdom.\nHydra vulgaris can make new offspring through a process called budding. A small H. vulgaris can start to grow from the side of its parent. When the baby H. vulgaris is fully grown, it will split off from its parent.\nOptions: (A) no (B) yes\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "16718",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which is the hardest?\nContext: N/A\nOptions: (A) ice rink (B) linen handkerchief (C) silk kimono"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "17120",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do these two changes have in common?\nmixing sand and water\ncutting your fingernails\nContext: N/A\nOptions: (A) Both are caused by cooling. (B) Both are chemical changes. (C) Both are only physical changes. (D) Both are caused by heating."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "17149",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What does the simile in this text suggest?\nBrenda rubbed coconut oil on her hands, which were like the parched earth during a drought.\nContext: N/A\nOptions: (A) Brenda's hands were dry and cracked. (B) Brenda's hands were hot."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "17300",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What information supports the conclusion that Tracy acquired this trait?\nContext: Read the description of a trait.\nTracy knows how to make chili.\nOptions: (A) Tracy learned how to make chili from a recipe book. (B) Tracy's friends like to make chili with her. (C) When Tracy was young, her grandmother taught her how to cut chili peppers."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "17563",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Using only these supplies, which question can Anita investigate with an experiment?\nContext: Anita is outside with her friend on a sunny day. Anita is wearing a light-colored shirt, and she notices that she feels colder than her friend, who is wearing a dark shirt. She wonders what factors affect how fabric warms an object. So, she decides to design an experiment. She has the following supplies available:\na black cotton shirt\na white cotton shirt\ntwo identical empty glass jars\ntwo thermometers\nOptions: (A) When placed in the sun, does a glass jar wrapped in cotton heat up more than a glass jar wrapped in wool? (B) When placed in the sun, does a glass jar wrapped in a black cotton shirt heat up more than a glass jar wrapped in a white cotton shirt? (C) When wrapped in a cotton shirt and placed in the sun, does a large jar or a small jar heat up more?"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "17677",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What does the verbal irony in this text suggest?\nAccording to Mr. Gruber's kids, his snoring is as quiet as a jackhammer.\nContext: N/A\nOptions: (A) The snoring is subtle. (B) The snoring is loud."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "17701",
+        "image": "17701/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Alabama?\nContext: N/A\nOptions: (A) Augusta (B) Baton Rouge (C) Montgomery (D) Denver\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is C."
+            }
+        ]
+    },
+    {
+        "id": "17934",
+        "image": "17934/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which solution has a higher concentration of purple particles?\nContext: The diagram below is a model of two solutions. Each purple ball represents one particle of solute.\nOptions: (A) neither; their concentrations are the same (B) Solution A (C) Solution B\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "18062",
+        "image": "18062/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Does this passage describe the weather or the climate?\nContext: Figure: Cape Verde.\nTrade winds are steady winds that blow towards the equator. In Cape Verde, which is located in the Northern hemisphere, they blow from the northeast almost every day.\nHint: Weather is what the atmosphere is like at a certain place and time. Climate is the pattern of weather in a certain place.\nOptions: (A) weather (B) climate\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "18153",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which correctly shows the title of a magazine?\nContext: N/A\nOptions: (A) where It's At (B) Where It's At"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "18178",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which logical fallacy is used in the text?\nMy opponent claims that testing products on animals is cruel. But I, for one, cannot support exposing humans to harmful chemicals!\nContext: N/A\nOptions: (A) circular reasoning: an argument that supports a claim with the claim itself (B) straw man: a misrepresentation of an opponent's position that makes it easier to argue against (C) slippery slope fallacy: the false assumption that a small first step will lead to extreme consequences"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "18606",
+        "image": "18606/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which part of the banana tree do we usually eat?\nContext: People use banana trees for food. We usually eat the part of this plant that contains the seeds. It grows from a pollinated flower.\nOptions: (A) the fruit (B) the flowers (C) the leaves\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "18680",
+        "image": "18680/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which bird's beak is also adapted to catch fish?\nContext: s live near wetlands, marshes, and lakes. They eat mostly fish. The shape of the 's beak is adapted to catch fish.\nFigure: Amazon kingfisher.\nOptions: (A) little egret (B) Asian golden weaver\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "19159",
+        "image": "19159/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the capital of Massachusetts?\nContext: N/A\nOptions: (A) Plymouth (B) Cambridge (C) Trenton (D) Boston\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is D."
+            }
+        ]
+    },
+    {
+        "id": "19364",
+        "image": "19364/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Think about the magnetic force between the magnets in each pair. Which of the following statements is true?\nContext: The images below show two pairs of magnets. The magnets in different pairs do not affect each other. All the magnets shown are made of the same material, but some of them are different sizes.\nOptions: (A) The magnitude of the magnetic force is smaller in Pair 2. (B) The magnitude of the magnetic force is smaller in Pair 1. (C) The magnitude of the magnetic force is the same in both pairs.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "19406",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Based on this information, what is Chase's genotype for the fur texture gene?\nContext: In a group of dachshund dogs, some individuals have rough fur and others have soft fur. In this group, the gene for the fur texture trait has two alleles. The allele F is for rough fur, and the allele f is for soft fur.\nChase, a dachshund dog from this group, has soft fur. Chase has two alleles for soft fur.\nOptions: (A) soft fur (B) ff"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    },
+    {
+        "id": "19527",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What do these two changes have in common?\nmaking jam\nphotosynthesis\nContext: N/A\nOptions: (A) Both are chemical changes. (B) Both are caused by cooling. (C) Both are only physical changes. (D) Both are caused by heating."
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "19603",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Complete the statement.\nOzone is ().\nContext: Ozone gas in the atmosphere protects living things on Earth from some of the Sun's harmful rays. The chemical formula for ozone is O3.\nOptions: (A) an elementary substance (B) a compound"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "19806",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of the following is an example of technologies?\nContext: People in early China invented many new types of technologies. Today, the word \"technology\" often refers to electronic objects such as computers and cell phones. But technology can be any device or object that helps people solve problems or complete tasks more easily.\nOptions: (A) a laptop computer (B) a hurricane that damages homes"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "20190",
+        "image": "20190/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Select the reptile below.\nContext: Reptiles have scaly, waterproof skin. Most reptiles live on land. A box turtle is an example of a reptile.\nOptions: (A) Mojave rattlesnake (B) barking tree frog\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "20611",
+        "image": "20611/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Will these magnets attract or repel each other?\nContext: Two magnets are placed as shown.\nOptions: (A) attract (B) repel\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "20682",
+        "image": "20682/image.png",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Which of these states is farthest south?\nContext: N/A\nOptions: (A) Colorado (B) Pennsylvania (C) Oregon (D) Connecticut\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is A."
+            }
+        ]
+    },
+    {
+        "id": "20811",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Based on this information, what is Asgore's genotype for the wool color gene?\nContext: In a group of sheep, some individuals have white wool and others have black wool. In this group, the gene for the wool color trait has two alleles. The allele L is for white wool, and the allele l is for black wool.\nAsgore, a sheep from this group, has white wool. Asgore has one allele for white wool and one allele for black wool.\nOptions: (A) white wool (B) Ll"
+            },
+            {
+                "from": "gpt",
+                "value": "The answer is B."
+            }
+        ]
+    }
+]
