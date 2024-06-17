@@ -72,7 +72,7 @@ if __name__ == "__main__":
         elif len(pred_text) == 2 and pred_text[0] in args.options and pred_text[1] == ".":
             answer = pred_text[0]
         else:
-            pattern = re.compile(r'The answer is ([A-Z]).')
+            pattern = re.compile(r'answer is ([A-Z]).')
             res = pattern.findall(pred_text)
             if len(res) >= 1:
                 answer = res[-1]  # 'A', 'B', ...

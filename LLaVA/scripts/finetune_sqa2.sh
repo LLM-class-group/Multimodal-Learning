@@ -12,7 +12,7 @@ DS_SKIP_CUDA_CHECK=1 deepspeed --include=localhost:1,2 --master_port=29600 /data
     --deepspeed ./scripts/zero3_offload.json \
     --model_name_or_path lmsys/vicuna-13b-v1.3 \
     --version v1 \
-    --data_path /data2/yhhe/code/ScienceQA/data/scienceqa/llava_minitrain_QCM-LEA.json \
+    --data_path /data2/yhhe/code/ScienceQA/data/scienceqa/llava_minitrain_realigned_3.json \
     --image_folder /data2/yhhe/code/ScienceQA/data/scienceqa/images/train \
     --vision_tower openai/clip-vit-large-patch14 \
     --pretrain_mm_mlp_adapter ./checkpoints/llava-pretrain-vicuna-13b-v1.3/mm_projector.bin \
@@ -20,14 +20,14 @@ DS_SKIP_CUDA_CHECK=1 deepspeed --include=localhost:1,2 --master_port=29600 /data
     --mm_use_im_start_end False \
     --mm_use_im_patch_token False \
     --bf16 True \
-    --output_dir ./checkpoints/llava-vicuna-13b-v1.3-mini-origin \
+    --output_dir ./checkpoints/llava-vicuna-13b-v1.3-realigned-3 \
     --num_train_epochs 12 \
-    --per_device_train_batch_size 32 \
+    --per_device_train_batch_size 64 \
     --per_device_eval_batch_size 4 \
-    --gradient_accumulation_steps 4 \
+    --gradient_accumulation_steps 2 \
     --evaluation_strategy "no" \
     --save_strategy "steps" \
-    --save_steps 100 \
+    --save_steps 20 \
     --save_total_limit 2 \
     --learning_rate 2e-5 \
     --weight_decay 0. \
