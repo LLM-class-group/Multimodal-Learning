@@ -1,7 +1,7 @@
 # Multimodal-Learning
 
-In this work, we explores the relationship between the performance of the multimodal model LLaVA on the
-Science QA dataset and the quality of alignment data, and provides some conjectures on how fine-tuning
+This work is the course project of CS2916 Large Language Models, completed by [Yanheng He](https://github.com/HenryHe0123), [Jiahe Jin](https://github.com/zizi0123) and [Yuxuan Zhang](https://github.com/zyx11451) together. In this work, we explores the relationship between the performance of the multimodal model LLaVA on the
+Science QA dataset and the quality of alignment data, and provides some conjectures on how alignment
 affects model performance.
 
 ### Usage
@@ -30,7 +30,7 @@ affects model performance.
     - `full/` contains the results after finetuning the model with all 12726 questions.
     - `mini/` contains the results after finetuning the model with 1000 randomly selected questions.
 - `ReAlign/`: The Reformatted Alignment directory
-- `ScienceQA/`: The ScienceQA dataset directory
+- `ScienceQA/`: The Science QA dataset directory
   - `data/scienceqa/` contains all our training datasets
     - `llava_train_QCM-LEA.json` is the full-origin dataset in our paper
     - `llava_train_short.json` is the full-short dataset in our paper
